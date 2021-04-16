@@ -47,24 +47,15 @@ Em paralelo estou me aperfeiçoando nesse universo de Ciências de dados. Minha 
 
 
 ---
+### :slot_machine: Projetos de Machine Learning
 
-### 📕 Projetos
+* **[Detecção de Fraude em Cartão de Crédito](https://github.com/geovaniGomes/geovaniGomes/blob/main/MachineLearning/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)**
+ 
+ Esse projeto consiste em criações de modelos de classificação para classificar se houve fraude ou não. 
+ A métrica utilizada é a curva AUC.
 
-* **[Análise de Dados Airbnb Montreal](https://github.com/geovaniGomes/Data_Science/blob/master/Analisando_os_Dados_do_Airbnb_Montreal_Canada.ipynb)**
-A partir de um conjunto de dados mais simplificados disponibilizado  pelo Airbnb, pude realizar uma análise para da cidadde de Montreal- Canadá. Durante a análise forma lenvantadas questões que podem dar algumas visões para as pessoas que pensam em visitar a cidade e passar algum tempo por lá. São elas:
 
-- Média dos preços de aluguéis
-- Qual tipo de imóvel mais alugado no Airbnb
-- Quais localidades possuem os valores mais altos
-- Quais são as localidades mais recomendadas e as menos recomendadas?
-
-Sobres As bibliotecas usadas foram:
-
-- python: Linguagem usada para desenvolver os scripts
-- Pandas: para mannipulação de dataframe
-- Seaborn: biblioteca usada para geraação dos gráficos
-
-<br/>
+### :bar_chart: Projetos de Análise Exploratória
 
 * **[Análise dos dados de refugiados no Brasil](https://github.com/geovaniGomes/Solicitacao_rejugiados_Brasil/blob/main/Solicita%C3%A7%C3%B5es_refugio_BR.ipynb)**
 
@@ -80,6 +71,22 @@ Sobres As bibliotecas usadas foram:
 - python: Linguagem usada para desenvolver os scripts
 - Pandas: para mannipulação de dataframe
 - Plotly: biblioteca usada para geraação dos gráficos
+<br/>
+
+* **[Análise de dados Airbnb Montreal](https://github.com/geovaniGomes/Data_Science/blob/master/Analisando_os_Dados_do_Airbnb_Montreal_Canada.ipynb)**
+A partir de um conjunto de dados mais simplificados disponibilizado  pelo Airbnb, pude realizar uma análise para da cidadde de Montreal- Canadá. Durante a análise forma lenvantadas questões que podem dar algumas visões para as pessoas que pensam em visitar a cidade e passar algum tempo por lá. São elas:
+
+- Média dos preços de aluguéis
+- Qual tipo de imóvel mais alugado no Airbnb
+- Quais localidades possuem os valores mais altos
+- Quais são as localidades mais recomendadas e as menos recomendadas?
+
+Sobres As bibliotecas usadas foram:
+
+- python: Linguagem usada para desenvolver os scripts
+- Pandas: para mannipulação de dataframe
+- Seaborn: biblioteca usada para geraação dos gráficos
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
