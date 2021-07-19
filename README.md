@@ -10,7 +10,7 @@
 Em paralelo estou me aperfeiçoando nesse universo de Ciências de dados. Minha Expectativa é unir o meu background que possuo hoje com os novos conhecimento em Ciências de Dados. E poder conseguir extrair insights valiosos que fazem a diferença.
 
 
-- 📈 Sou disposto a aprrender coisas novas tannto em habiulidades técnicas quanto comportamentais  🤣
+- 📈 Estou disposto a aprender coisas novas tanto em habilidades técnicas quanto comportamentais  🤣
 - 📊 Quero contribuir com outros cientistas de dados e desenvolvedores  🤣🤣🤣
 
 
